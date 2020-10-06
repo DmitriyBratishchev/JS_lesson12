@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+}
+
+.field {
+  position: absolute;
+  height: 501px;
+  width: 1024px;
+  z-index: 1;
+}
+
+.ball {
+  position: fixed;
+  left: 501px;
+  top: 240px;
+  height: 20px;
+  z-index: 2;
+}
